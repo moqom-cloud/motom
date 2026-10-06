@@ -1,0 +1,24 @@
+# Go
+/motom
+/bin/
+*.test
+*.out
+
+# Terraform. Saved plans and tfvars hold variable values in plain text.
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars
+!*.tfvars.example
+crash.log
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+service-account*.json
+
+.DS_Store

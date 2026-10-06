@@ -1,0 +1,10 @@
+MOTOM
+Copyright 2026 Elliott Wave LLC. All rights reserved.
+
+This software is proprietary and confidential. No licence is granted to use,
+copy, modify or distribute it except by written agreement with Elliott Wave
+LLC.
+
+Third-party components keep their own licences:
+  github.com/jackc/pgx/v5, pgpassfile, pgservicefile, puddle/v2  MIT
+  golang.org/x/crypto, golang.org/x/sync, golang.org/x/text      BSD-3-Clause
